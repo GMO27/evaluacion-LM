@@ -11,26 +11,37 @@ La transformación digital ha impulsado el uso de plataformas de gestión del ap
 
 ## 🔍 Desarrollo del análisis comparativo
 
-### Moodle
-- **Funcionalidades:** De código abierto, personalizable.
-- **Herramientas pedagógicas:** Amplia variedad de plugins, foros, tareas, cuestionarios.
-- **Interfaz:** Menos intuitiva, requiere curva de aprendizaje.
-- **Soporte:** Comunidad activa, abundante documentación.
-- **Experiencia del usuario:** Potente pero técnica.
+A continuación se presenta un análisis detallado de tres plataformas LMS: **Moodle**, **Blackboard** y **Canvas**, evaluadas a través de cinco ejes: funcionalidades, herramientas pedagógicas, interfaz, soporte y experiencia del usuario.
 
-### Blackboard
-- **Funcionalidades:** Plataforma comercial, enfocada en instituciones.
-- **Herramientas pedagógicas:** Integración avanzada con sistemas académicos.
-- **Interfaz:** Profesional, estructurada.
-- **Soporte:** Soporte técnico directo y constante.
-- **Experiencia del usuario:** Formal, dirigida a contextos institucionales.
+### 🔧 Funcionalidades
 
-### Canvas
-- **Funcionalidades:** Moderna, basada en la nube.
-- **Herramientas pedagógicas:** Simplicidad en creación de cursos, multimedia.
-- **Interfaz:** Intuitiva, adaptable a dispositivos móviles.
-- **Soporte:** Documentación clara, soporte institucional.
-- **Experiencia del usuario:** Amigable, moderna.
+- **Moodle:** Es una plataforma de código abierto altamente personalizable. Permite instalar plugins para ampliar sus funcionalidades, integrarse con sistemas externos, y adaptar cursos a distintas metodologías (clases invertidas, gamificación, etc.).
+- **Blackboard:** Ofrece un sistema robusto, orientado a instituciones educativas. Incorpora funcionalidades avanzadas como analítica de aprendizaje, videoconferencias integradas, control de plagio, y gestión automatizada de tareas.
+- **Canvas:** Está basada en la nube y se destaca por su arquitectura moderna. Aunque menos personalizable que Moodle, es muy estable y ofrece una gran integración con herramientas externas (Google Drive, Microsoft 365, etc.).
+
+### 📚 Herramientas pedagógicas
+
+- **Moodle:** Permite incorporar múltiples actividades y recursos: foros, wikis, glosarios, tareas, cuestionarios, SCORM, encuestas, entre otros. Su enfoque es flexible, permitiendo adaptaciones según el estilo de enseñanza.
+- **Blackboard:** Ofrece herramientas avanzadas para evaluación, retroalimentación, seguimiento de progreso y colaboración. Tiene rúbricas integradas, foros, blogs, y permite el uso de herramientas externas vía LTI.
+- **Canvas:** Apuesta por la simplicidad. Sus herramientas se centran en tareas, foros, cuestionarios y módulos de aprendizaje. Su interfaz intuitiva hace fácil la planificación de contenidos para los docentes.
+
+### 🎨 Interfaz
+
+- **Moodle:** Tiene una interfaz algo técnica y menos moderna, aunque personalizable mediante temas. Puede ser abrumadora para usuarios nuevos si no se configura adecuadamente.
+- **Blackboard:** Presenta una interfaz profesional, aunque algunos usuarios la consideran compleja. Su diseño está orientado a facilitar la administración institucional más que la experiencia personal del docente.
+- **Canvas:** Su interfaz es limpia, visualmente atractiva y muy fácil de usar. Está diseñada para que tanto estudiantes como docentes puedan navegar sin dificultades desde cualquier dispositivo.
+
+### 🔧 Soporte
+
+- **Moodle:** Cuenta con una comunidad global muy activa, documentación en línea completa y foros de soporte. No tiene soporte oficial centralizado, a menos que se contraten servicios externos.
+- **Blackboard:** Ofrece soporte técnico personalizado, disponible para instituciones que contratan sus servicios. Incluye asistencia telefónica, por chat y recursos formativos en línea.
+- **Canvas:** Dispone de un centro de ayuda con tutoriales, foros y guías. Las instituciones que adquieren Canvas también acceden a soporte técnico especializado.
+
+### 👥 Experiencia del usuario
+
+- **Moodle:** Puede ser poderosa para usuarios avanzados, pero menos amigable para quienes tienen poca experiencia en entornos virtuales. Requiere capacitación para aprovechar todo su potencial.
+- **Blackboard:** La experiencia del usuario está muy controlada por la institución. Aunque potente, puede sentirse rígida para el estudiante promedio.
+- **Canvas:** Su diseño centrado en la usabilidad lo convierte en una de las plataformas más valoradas por los estudiantes. Es accesible, clara y rápida, incluso en dispositivos móviles.
 
 ## 📊 Cuadro comparativo
 
